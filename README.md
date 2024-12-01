@@ -1,2 +1,2 @@
 # Exploring-Open-AI
-Accessing OpenAI’s GPT-3.5 model via API to automate email responses, write code using natural language prompts, and summarise text.
+Accessed OpenAI’s `GPT-4o-mini` model via API to automate email responses, write code using natural language prompts, and summarise text. Additionally, used OpenAI’s `DALL-E 3` model to generate images.
